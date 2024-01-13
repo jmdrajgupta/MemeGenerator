@@ -1,5 +1,5 @@
 body{
-    backgound-color:red;
+     background: linear-gradient(45deg,black,red);
 }
 .meme-generator{
     font-family: Verdana, Geneva, Tahoma, sans-serif;
